@@ -1,4 +1,4 @@
 # ogp
 
-## Open Government Partnership Hackathon @ Civic Hall
-## September 21, 2016
+Open Government Partnership Hackathon @ Civic Hall  
+September 21, 2016
