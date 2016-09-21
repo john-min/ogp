@@ -1,0 +1,1562 @@
+id,label,type
+0,131 Voces,name
+1,2nd City Zoning,name
+2,311 Online,name
+3,38degrees,name
+4,3D modeling software,tag
+5,4INFO,name
+6,@Stake,name
+7,A Tu Nombre,name
+8,A Tu Servicio,name
+9,A quienes elegimos,name
+10,AGORA-net,name
+11,Accela Civic Voice,name
+12,Acceleo,name
+13,Acceso Inteligente,name
+14,Accountable,name
+15,Action Network,name
+16,Action Path,name
+17,ActionKit,name
+18,Activities,tag
+19,Adhocracy,name
+20,Administration,tag
+21,Adobe Acrobat Connect,name
+22,Adobe ColdFusion,name
+23,Adobe Connect,name
+24,Adopt a Drain,name
+25,Adopt a Hydrant,name
+26,Adopt-a-Drain,name
+27,Adopt-a-Hydrant,name
+28,Agenda du Libre,name
+29,Agent,name
+30,Agile,tag
+31,Agora,name
+32,Agora Voting,name
+33,Airbnb Disaster Response,name
+34,Airesis,name
+35,Alavateli,name
+36,Alaveteli,name
+37,Alfresco,name
+38,All Angles,name
+39,All Our Ideas,name
+40,AlternativeTo,name
+41,Amicus,name
+42,Ammado,name
+43,Amplify,name
+44,Analice me,name
+45,Analysis,tag
+46,Analytics,tag
+47,Annotation,tag
+48,Annotator,name
+49,Anonymous,tag
+50,Antragsgrün,name
+51,Apache,name
+52,Apache JMeter,name
+53,Apache Roller,name
+54,Aportemos,name
+55,AppCityLife,name
+56,AppRTC,name
+57,Application mobile,name
+58,ArcGIS,name
+59,Archive,tag
+60,Arguman,name
+61,Argument mapping,tag
+62,Arguments,tag
+63,Argunaut,name
+64,Artificial Intelligence and Bots,tag
+65,Artificial Intelligence for Disaster Response,name
+66,Asana,name
+67,Ask Izzy,name
+68,AskThem,name
+69,Assembl,name
+70,Atlatszo,name
+71,Atom,name
+72,Attendize,name
+73,Attentiv,name
+74,Audacity,name
+75,Audience response system,tag
+76,Audio,tag
+77,Audio Notetaker,name
+78,AudioVideo,tag
+79,AudioVideoEditing,tag
+80,AuntBertha,name
+81,Authentication,tag
+82,Autistici,name
+83,Automation,tag
+84,Avaaz,name
+85,Avidemux,name
+86,Avoin Ministerio (Open Ministry),name
+87,Azendoo,name
+88,Backseat Budgeter,name
+89,BackupPC,name
+90,Balancing Act,name
+91,Ballot Ready,name
+92,Basecamp,name
+93,Bay Area Regional Planner,name
+94,Benefit Navigation,tag
+95,BenefitKitchen,name
+96,Betri Reykjavik,name
+97,Better Reykjavik,name
+98,BiPart,name
+99,BicBucStriim,name
+100,BigQuery,name
+101,Bill Watcher,name
+102,Bill-it,name
+103,BillCam,name
+104,BillIt,name
+105,Bills,tag
+106,Bite the Ballot,name
+107,Bitmessage,name
+108,Block'hood,name
+109,Blog,tag
+110,BlogEngine.NET,name
+111,Blogger,name
+112,Blue Button,name
+113,BlueGriffon,name
+114,Blyve,name
+115,Board,tag
+116,BoardWorks,name
+117,Boardthing,name
+118,Bookmarking,tag
+119,Books,tag
+120,Box,name
+121,Brainstorm Anywhere,name
+122,Brainstorming,tag
+123,Breezometer,name
+124,Brigade,name
+125,BrightPages,name
+126,Brookings Democracy Dashboard,name
+127,Browser,tag
+128,Buddy Press,name
+129,Budget,name
+130,Budget,tag
+131,Budget Allocator,name
+132,Budget Ballot,name
+133,Budget G0V TW,name
+134,Budget Key,name
+135,Budget Simulator,name
+136,Budget simulator,tag
+137,Budget visualization,tag
+138,Budgeting,tag
+139,Building & Land Development Specification (BLDS),name
+140,Bulk messaging,tag
+141,Bulk messenging,tag
+142,Bungeni,name
+143,Burning Board,name
+144,BusMeister,name
+145,CAP Protocol,name
+146,CAPSure,name
+147,CIVITAS,name
+148,CKAN,name
+149,CMU condersec voting,name
+150,CRM,tag
+151,CUPS,name
+152,CUSP Quantified Communities,name
+153,Calculation,tag
+154,Calendar,tag
+155,California Report Card,name
+156,Call,tag
+157,Calling,tag
+158,Caminos de la Villa,name
+159,Campaign,tag
+160,Campaign organizing platforms,tag
+161,Campaignion,name
+162,Campfire,name
+163,Canaree,name
+164,Cap Collectif,name
+165,Capitol Bells,name
+166,CartoDB,name
+167,Catalogue,tag
+168,Catchafire,name
+169,Causes,name
+170,Causes [Brigade],name
+171,Center for Technology & Civic Life's election administration web template,name
+172,Central Desktop,name
+173,Centreon,name
+174,Change,name
+175,Change Decisionmakers,name
+176,Change by US,name
+177,Change.org,name
+178,Changing the present,name
+179,Chat,tag
+180,Chatter,name
+181,Check-in Tools,tag
+182,Chequealo,name
+183,Chicago Cityscape,name
+184,Choicebook,name
+185,Choicely,name
+186,Choose a program,tag
+187,Chromium Web Browser,name
+188,Cidade Democratica,name
+189,CitiZing,name
+190,Citizen,tag
+191,Citizen Budget,name
+192,Citizen Connect,name
+193,Citizen Cosponsor,name
+194,Citizen Participation Suite,name
+195,Citizen Space,name
+196,Citizen beta,name
+197,CitizenGO,name
+198,CitizenScape,name
+199,CitizenSpeak,name
+200,CitizenSpigit,name
+201,Citizinvestor,name
+202,City Beat,name
+203,City Sourced,name
+204,City dashboards,name
+205,CityGML,name
+206,CityMart,name
+207,CityMis,name
+208,CitySDK,name
+209,"CitySDK - more of a toolkit for programmers than a data standard, but it does implicitly include some standardized data structures.",name
+210,CitySourced,name
+211,CityVoice,name
+212,Citygram,name
+213,Civi,name
+214,CiviCRM,name
+215,Civic Commons,name
+216,Civic Insight,name
+217,Civic Seed,name
+218,Civic engagement,tag
+219,Civic forums,tag
+220,Civic technology,tag
+221,CivicEvolution,name
+222,CivicIQ,name
+223,CivilHub,name
+224,Civinomics,name
+225,Civocracy,name
+226,CleverTaxes,name
+227,Clonezilla,name
+228,Co-construction,tag
+229,CoPe_it!,name
+230,Cobi: Community based scheduling,name
+231,Code for Germany,name
+232,CodeandoMexico,name
+233,Codigital,name
+234,Coggle,name
+235,Cognitive Games for Civics,name
+236,Cohere,name
+237,Colab re,name
+238,Collaboration,tag
+239,Collaboration Diagnostics,tag
+240,Collaborative,tag
+241,Collaborative calendars,tag
+242,Collaborative document writing,tag
+243,Collaborize,name
+244,Collections,tag
+245,Collective moderation,tag
+246,Collideoscope,name
+247,Comment Rating (Wordpress plugin),name
+248,CommentManagement.com,name
+249,CommentPress,name
+250,CommentWorks,name
+251,Commentariat Wordpress Theme,name
+252,Common Ground for Action,name
+253,Communication,tag
+254,Communications,tag
+255,Communications & Meetings,tag
+256,Community,tag
+257,Community Forums Network,name
+258,Community Lovers Guide for placemaking,name
+259,Community Media Drupal Summit,name
+260,Community Panel,name
+261,Community Plan IT,name
+262,Community PlanIt,name
+263,Community Remarks,name
+264,CommunityCOUNTS,name
+265,CommunityViz,name
+266,Compendium,name
+267,Conceptboard,name
+268,Condorcet Internet Voting,name
+269,Conference,tag
+270,Conference Management,tag
+271,Conferencing,tag
+272,Conflicts,tag
+273,Congreso Abierto,name
+274,Congreso Interactivo,name
+275,Congreso Transparente,name
+276,Congreso Visible,name
+277,Congress.gov,name
+278,Connected Messages,name
+279,Consider.it,name
+280,Considerit,name
+281,Constitución.al,name
+282,Constituency,tag
+283,Constituent to Government communication,tag
+284,Consul,name
+285,Consult Docs,name
+286,Consultation,tag
+287,Contact Congress,name
+288,Contacts,tag
+289,Content creation,tag
+290,Content management framework (CMF),tag
+291,Content management system,tag
+292,Content management system (CMS),tag
+293,Contratados.org,name
+294,Contribution and Decision Making,tag
+295,Contributors,tag
+296,ControlShift,name
+297,Controle Parlementaire Citoyens,name
+298,Conversations,name
+299,Corum,name
+300,CouncilStat NYC,name
+301,Councilmatic,name
+302,Countable,name
+303,CoveritLive,name
+304,Coworker.org,name
+305,Crabgrass,name
+306,Creating a website,tag
+307,Creativity,tag
+308,Crime in Chicago,name
+309,Crisis Commons,name
+310,Crisis Management,tag
+311,Crisis Tracker,name
+312,Crocodoc Personal,name
+313,Crowd Voice,name
+314,CrowdGauge,name
+315,CrowdHall,name
+316,CrowdMap (Ushahidi),name
+317,CrowdMap Plus (Ushahidi),name
+318,CrowdSpot,name
+319,Crowdbrite,name
+320,Crowdfit Open,name
+321,Crowdflik,name
+322,Crowdfunder,name
+323,Crowdfunding,tag
+324,Crowdfunding,name
+325,Crowdicity,name
+326,Crowdmap,name
+327,Crowdmap Plus (Usahidi),name
+328,Crowdmapping,tag
+329,Crowdmapping,name
+330,Crowdpac,name
+331,Crowdsourced data collection,tag
+332,Crowdsourcing,tag
+333,Cuidando.org,name
+334,Customer relationship management (CRM),tag
+335,Cuttlefish,name
+336,D3,name
+337,DCLG Waste Standards,name
+338,DEMODYNE,name
+339,DEMOS,name
+340,DEMOS-Budget,name
+341,DISQUS,name
+342,DKAN,name
+343,Darknet market,tag
+344,Data,tag
+345,"Data Aggregation, Sharing, & Standards",tag
+346,Data Analysis & Visualization,tag
+347,Data Gathering,tag
+348,Data MX,name
+349,Data Organizing,tag
+350,Data Visualization Tools and Platforms,tag
+351,Data collection,tag
+352,Data hub,tag
+353,Data management,tag
+354,Data management system (DMS),tag
+355,Data schemas and standards,tag
+356,Data visualization,tag
+357,DataSF,name
+358,DataUSA,name
+359,DataViva,name
+360,Database,tag
+361,Databasic,name
+362,Datahub,name
+363,Dataset,tag
+364,Date,tag
+365,Datea,name
+366,Debate,tag
+367,Debategraph,name
+368,Debian,name
+369,Decentralized,tag
+370,Decision making,tag
+371,Decision-Maker,name
+372,Decision-making,tag
+373,Decision-making software,tag
+374,DecisionHosting,name
+375,Decoro Urbano,name
+376,Deebase,name
+377,Del dicho al hecho,name
+378,Delegative democracy,tag
+379,Delibera 1.0,name
+380,Deliberation,tag
+381,Deliberatorium,name
+382,Delicious,name
+383,Delvicher,name
+384,Demagora,name
+385,Deme,name
+386,Democracy 2.1,name
+387,Democracy Club,name
+388,DemocracyMap,name
+389,DemocracyOS,name
+390,Democras,name
+391,Democratech,name
+392,Demodyne,name
+393,Demosphere,name
+394,Design,tag
+395,Design Challenge,tag
+396,Design Challenges,tag
+397,Developing,tag
+398,Development,tag
+399,Dia,name
+400,Dialogue,name
+401,Dialogue App,name
+402,Dialoguecircles,name
+403,Diaspora,name
+404,Did You Feel It?,name
+405,Digg,name
+406,Digital Activism Research Project,name
+407,Digital Democracy,name
+408,Digital Marketplace (UK),name
+409,Dinero y Política,name
+410,Dipudatos,name
+411,Direct democracy,tag
+412,Discourse,name
+413,DiscoverText,name
+414,Discussion,tag
+415,Discussion forum,tag
+416,Discussipon,tag
+417,Discuto,name
+418,Distributed database management system,tag
+419,DistrictBuilder,name
+420,Districting for ArcGIS,name
+421,Django,name
+422,Django FixMyStreet,name
+423,DoNotPay bot,name
+424,Document,tag
+425,Document sharing,tag
+426,Documents,tag
+427,Dolibarr,name
+428,Donations,tag
+429,Draw.io,name
+430,Drupal,name
+431,Drupal Commons,name
+432,Década Votada,name
+433,E-Democracy.org,name
+434,E-Democracy.org (BeNeighbors.org),name
+435,E-democracia,name
+436,E-voting,tag
+437,ECI Online Collection Software,name
+438,EFS Survey,name
+439,ERP,tag
+440,ESRI,name
+441,Echo,name
+442,Eclipse,name
+443,Econsensus,name
+444,Editing,tag
+445,Editor,tag
+446,Education,tag
+447,Elasticsearch,name
+448,ElectNext [Versa] opinion matching {Change},name
+449,Elected representatives,tag
+450,Election,tag
+451,Election monitoring,tag
+452,Electionbuddy,name
+453,Elections,name
+454,Electronic Grant Reporting,name
+455,ElegiLegi,name
+456,Email,tag
+457,Email,name
+458,Emerging Citizens,name
+459,Encryption,tag
+460,Engage,tag
+461,Engage,name
+462,Engagement,tag
+463,EngagementHQ,name
+464,EngagingPlans,name
+465,Engineering,tag
+466,Enigma,name
+467,Environment,tag
+468,Envision Tomorrow,name
+469,Estimation,tag
+470,Ethelo,name
+471,EtherCalc,name
+472,Etherpad,name
+473,EuroPetition,name
+474,Event,tag
+475,Event organizing,tag
+476,Event planning,tag
+477,Eventario,name
+478,Events,tag
+479,Evernote,name
+480,Every Politician,name
+481,EveryPolitician,name
+482,EveryPolitician.org,name
+483,Evite,name
+484,Explica la ley,name
+485,Expression Engine,name
+486,FOIA Machine,name
+487,FOIA Mapper,name
+488,FOIAXpress,name
+489,Face Acontecer (Nossas Cidades),name
+490,Facebook Connect,name
+491,Facebook Groups,name
+492,Facebook Safety Check,name
+493,FacilitatePro,name
+494,Factcheck.org,name
+495,Factcheck.ui,name
+496,Faire-simple,name
+497,Favabank,name
+498,"Federal Spending Transparency - not applicable to cities or states yet, but highly likely to be in the future.",name
+499,Feedback,tag
+500,Feedbackr,name
+501,Field Guides to Ensuring Voter Intent,name
+502,File,tag
+503,File Sharing & Collaborative Writing,tag
+504,File sharing,tag
+505,File synchronisation,tag
+506,FileTransfer,tag
+507,FileZilla,name
+508,Files,tag
+509,FireChat,name
+510,Firefox,name
+511,Firepad,name
+512,First Mile Geo,name
+513,First to See,name
+514,Fiscal,tag
+515,Fiscal Data Protocols,name
+516,Fiscal policy,tag
+517,Fiscales de la Red,name
+518,FitNesse,name
+519,Fix my street,name
+520,Fix my transport,name
+521,FixMyCommunity,name
+522,FixMyStreet,name
+523,Flickr,name
+524,Flipboard,name
+525,Flow - Sidewalk Labs,name
+526,Flow Parking - Sidewalk Labs,name
+527,Fluxx,name
+528,Foldit,name
+529,Follow My Vote,name
+530,Follow the Money network,name
+531,Forge,tag
+532,Fort Vancouver,name
+533,Forum,tag
+534,Foundation Directory Online,name
+535,Foundation Registry i3,name
+536,FoundationConnect,name
+537,Foursquare,name
+538,Framadate,name
+539,Framasphere,name
+540,Framework,tag
+541,FreeLab,name
+542,Freedom of Information,tag
+543,Freeplane,name
+544,Froide,name
+545,FrontPorchForum,name
+546,FrontlineSMS,name
+547,Full Fact,name
+548,Fundraising,tag
+549,Fundraising & Matching,tag
+550,FutureAir,name
+551,FuzeBox,name
+552,GLPi,name
+553,GNU Mailman,name
+554,Gabinete Digital,name
+555,Galas (Ukraine),name
+556,Galette,name
+557,Game,tag
+558,Games for Change,name
+559,Gapminder World,name
+560,Gasto Público Bahiense,name
+561,Gator Debater,name
+562,General Transit Feed Specification (GTFS),name
+563,Geographic information system,tag
+564,Get Opinionated,name
+565,GetOpinionated,name
+566,GiFT,name
+567,Gitlab CE,name
+568,Gitter,name
+569,GivingData,name
+570,Glasspockets,name
+571,Glinkr,name
+572,Global Giving,name
+573,GlobalLeaks,name
+574,Glowbl,name
+575,GoFundMe,name
+576,GoToWebinar,name
+577,Google Acclima partnership,name
+578,Google Calendar,name
+579,Google Crisis Alerts,name
+580,Google Crisis Map,name
+581,Google Earth,name
+582,Google Moderator,name
+583,Google Person Finder,name
+584,Google Sites,name
+585,Google Wave,name
+586,Google speech,name
+587,Google+ Hangouts,name
+588,Goplan,name
+589,Goteo,name
+590,GotoMeeting,name
+591,Gov Track,name
+592,Gov2DemOSS,name
+593,GovDelivery,name
+594,GovLuv,name
+595,GovTrack,name
+596,Government revenue,tag
+597,Government to constituent communications,tag
+598,Grammalecte,name
+599,Granicus,name
+600,Grant,tag
+601,GrantCraft Collaboration Assessment,name
+602,Graphics,tag
+603,Graphviz,name
+604,Grassroot,tag
+605,Green Button,name
+606,Greenshot,name
+607,Greentizen,name
+608,Groundsource,name
+609,Group,tag
+610,Group communication tools,tag
+611,Group decision support system (GDSS),tag
+612,Group decision-making,tag
+613,GroupMap,name
+614,GroupMind Express,name
+615,GroupServer,name
+616,GroupServer.org,name
+617,H2,name
+618,H20 Rotisserie,name
+619,HAProxy,name
+620,Hackathon,tag
+621,Hackfoldr,name
+622,Hackpad,name
+623,HandStack,name
+624,Harem,tag
+625,Harlem Heat Project,name
+626,Hashtag,tag
+627,HealthLeads,name
+628,Healthify,name
+629,HeatSeek,name
+630,HeliOS,name
+631,Helios Voting,name
+632,HereLab,name
+633,Herox,name
+634,Highrise,name
+635,HipChat,name
+636,Hosting,tag
+637,Housefacts,name
+638,Housing,tag
+639,Huddle,name
+640,Huffington Post RYOT,name
+641,Huffington Post Ways to Help feature,name
+642,Human Services Data Specification,name
+643,Humanitarian Exchange Language,name
+644,Humanitarian OpenStreetMap,name
+645,Humanity Road,name
+646,Hustle,name
+647,Hyperarchy,name
+648,Hypothes.is,name
+649,IBM Collaboration Assessment Tool,name
+650,IMeet,name
+651,INDEX,name
+652,INOVEM Consult,name
+653,IceS 2,name
+654,Icecast 2,name
+655,Iceweasel,name
+656,IdeaNet,name
+657,IdeaTorrent,name
+658,Ideal-EU,name
+659,Idealist,name
+660,Idealist.org,name
+661,Ideation,tag
+662,Identity,tag
+663,Ignition Deck Wordpress plugin,name
+664,Image,tag
+665,Imagine,name
+666,Impacto Legislativo,name
+667,Implementing,tag
+668,ImportOmatic,name
+669,Incoma,name
+670,IndieGogo,name
+671,Infinite Conferencing,name
+672,Info4Disasters,name
+673,Infogram,name
+674,Information,tag
+675,Information Access,tag
+676,InfraRecorder,name
+677,Innovation Management,tag
+678,Inseme,name
+679,Insights,name
+680,Inspector de Intereses,name
+681,Instagram,name
+682,Instant messaging,tag
+683,InstantMessaging,tag
+684,Integration,tag
+685,IntenseDebate,name
+686,Intermix,name
+687,International Aid Transparency Initiative,name
+688,Interoperability,tag
+689,Intuit Brainstorm,name
+690,Intuit’s QuickBase,name
+691,Iota,name
+692,Irekia,name
+693,Is there sewage in the Chicago River?,name
+694,Issue reporting,tag
+695,Issue tracking,tag
+696,IssueLab,name
+697,IssueVoter,name
+698,Issues,name
+699,Issues,tag
+700,JKAN,name
+701,JUnit,name
+702,Jadu eConsultation,name
+703,Jarokelo.hu,name
+704,Java software library,tag
+705,JeVousSavoir.org,name
+706,Jenkins,name
+707,Jitsi,name
+708,Jitsi Meet,name
+709,Joined Up Data Standards,name
+710,Joint Decision Making,tag
+711,Joomla,name
+712,Journalism action,tag
+713,Journocoders,name
+714,Junar,name
+715,Justify,name
+716,KARL,name
+717,KIVA,name
+718,Kanban,tag
+719,Kanboard,name
+720,Kawaa,name
+721,KeePass,name
+722,Kibana,name
+723,Kickstarter,name
+724,Kiva - Micro Loans,name
+725,Knoema,name
+726,Knomos,name
+727,Knowledge,tag
+728,Kohovolit,name
+729,Konsento,name
+730,Kritical Mass,name
+731,La fabrique de la loi,name
+732,Lanyrd,name
+733,LaunchGood,name
+734,Law making,tag
+735,Lawmaking,tag
+736,Leaflet.js,name
+737,Learning Registry,name
+738,Legado del Bicentenario,name
+739,Legislation,tag
+740,Legislation Lab,name
+741,Legislation engagement,tag
+742,Legislative,tag
+743,Legislative Forum Making,tag
+744,Legistorm,name
+745,Leika,name
+746,Let's Encrypt,name
+747,Library,tag
+748,Library of Congress Machine Readable Cataloging,name
+749,LibreCAD,name
+750,LibreOffice,name
+751,LimeSurvey,name
+752,Link,tag
+753,Link NYC,name
+754,LinkedIn,name
+755,Liquid Feedback,name
+756,Liquid democracy,tag
+757,LiquidFeedback,name
+758,Liquidocracy,name
+759,LittleSis,name
+760,Live video streaming,tag
+761,Livestream,name
+762,Local Circles,name
+763,Local Inspector Value-Entry Specification (LIVES),name
+764,LocalData,name
+765,Local_In,name
+766,Localocracy,name
+767,Localocracy {Huffington Post},name
+768,Loomio,name
+769,Lstu,name
+770,Lufi,name
+771,Lutim,name
+772,Madison,name
+773,Madison (Keep the web open),name
+774,Maestro Conference,name
+775,Maidan Monitoring Information Center,name
+776,Mailing list,tag
+777,Making Speeches Talk,name
+778,Management,tag
+779,Map,tag
+780,MapAction,name
+781,MapIt,name
+782,MapKnitter,name
+783,MapLight,name
+784,MapMaker,name
+785,Mapa de baches,name
+786,Mapping,tag
+787,MarineMap,name
+788,Mark-a-Spot,name
+789,Marketing,tag
+790,Marketplaces and Clearinghouses,tag
+791,Maryland Budget Map Game,name
+792,Mashnotes,name
+793,Mattermost,name
+794,Measured Voice,name
+795,Media,tag
+796,MediaNaranja,name
+797,MediaWiki,name
+798,Meeting,tag
+799,MeetingSift,name
+800,MegaConferenceChat,name
+801,Meie Raha,name
+802,Mejora tu escuela,name
+803,Members,tag
+804,Messaging,tag
+805,Metrics,tag
+806,MetroQuest,name
+807,Meu Rio,name
+808,Mi ciudad ideal,name
+809,Micro Loans,tag
+810,Micromappers,name
+811,Microsoft TownHall,name
+812,Midamos,name
+813,MidiaNinja,name
+814,Million Dollar Blocks,name
+815,Mind My Business,name
+816,Mind mapping,tag
+817,MindMixer,name
+818,MindMup,name
+819,Mindomo,name
+820,Minecraft,name
+821,Mixedink,name
+822,Mixlr,name
+823,Mobile,tag
+824,Mobilizing,tag
+825,Moderation,tag
+826,Mon P'ti Voisinage,name
+827,Mon pti voisinage,name
+828,MongoDB,name
+829,Monitoring,tag
+830,Monod,name
+831,Movabletype,name
+832,MoveOn Petitions,name
+833,Movim,name
+834,MuckRock,name
+835,Mumble,name
+836,Mural.ly,name
+837,MyCity,name
+838,MyCity.io,name
+839,MyReps,name
+840,MySidewalk,name
+841,Myspace,name
+842,Mzalendo (Kenya),name
+843,NGOAid,name
+844,NGOsource,name
+845,Namara,name
+846,Nanos eConsultation,name
+847,Neighborhood forums,tag
+848,Neighborhoods.NYC,name
+849,Neighborland,name
+850,NetSuite,name
+851,Network,tag
+852,Network for Good,name
+853,New York City - Office of the Mayor’s FOIL Tracker,name
+854,News,tag
+855,News Aggregation,tag
+856,News.me,name
+857,Next 10 Budget Challenge,name
+858,Next Stop Design,name
+859,Nextcloud,name
+860,Nextdoor,name
+861,Nginx,name
+862,Ning,name
+863,Non-profit Technology Network,name
+864,NosDeputes,name
+865,NosSenateurs.fr,name
+866,Note,tag
+867,Note-taking,tag
+868,NoteApp,name
+869,Notepad++,name
+870,Notifications,tag
+871,Nova-Ideo,name
+872,ODX,name
+873,OGP Toolbox,name
+874,OHail,name
+875,Occupy Sandy's usage of Amazon Prime,name
+876,Odkazprestarostu.sk,name
+877,OffenerHaushalt,name
+878,Office,tag
+879,Offline,tag
+880,On est combien,name
+881,One Click Orgs,name
+882,One Spark,name
+883,OneDegree,name
+884,OneLobby,name
+885,Onehub,name
+886,Online consultation suite,tag
+887,Online dialogue and deliberation,tag
+888,Online service,tag
+889,Online survey,tag
+890,OnlineTownhalls,name
+891,OoVoo,name
+892,Oogwave,name
+893,OpaVote,name
+894,Open 311,name
+895,Open Active Voting,name
+896,Open Ahjo,name
+897,Open Aid Register,name
+898,Open Atrium,name
+899,Open Budget Oakland,name
+900,Open Civic Data Standard,name
+901,Open Collective,name
+902,Open Congress,name
+903,Open Connectivity Foundation,name
+904,Open Contracting,name
+905,Open Corporates,name
+906,Open Data,tag
+907,Open Debate,name
+908,Open Dialog,name
+909,Open Eligibility,name
+910,"Open Hunting & Fishing - this standard requires a reasonable amount of technical skill to use, using JSON-Schema files to describe the data structures.",name
+911,Open IDEO,name
+912,Open Ideo,name
+913,Open Municipio,name
+914,Open NY,name
+915,Open North Represent,name
+916,Open Parlamento,name
+917,Open Procurement,name
+918,Open Public Procurement,name
+919,Open Referral,name
+920,Open Source Event Manager,name
+921,Open Spending,name
+922,Open Town Hall,name
+923,Open Town Hall (Peak Democracy),name
+924,Open Trails,name
+925,Open data,tag
+926,Open government,tag
+927,Open parliament,tag
+928,Open311,name
+929,OpenCollective,name
+930,OpenComment,name
+931,OpenCorporates,name
+932,OpenDataLoft,name
+933,OpenDataSoft,name
+934,OpenECI,name
+935,OpenIR,name
+936,OpenLDAP,name
+937,OpenLayers,name
+938,OpenMaint,name
+939,OpenMeeting ( ou autre ),name
+940,OpenNebula,name
+941,OpenReferral,name
+942,OpenSecrets.org,name
+943,OpenShed,name
+944,OpenSpace-Online,name
+945,OpenSpending,name
+946,OpenTheBooks,name
+947,Openmailbox,name
+948,Opensensor.io,name
+949,Opinion Space,name
+950,Opinion Suite,name
+951,Opinion analytics,tag
+952,Opinion matching,tag
+953,OptiRTC,name
+954,Orcamento Participativo Digital,name
+955,Organization,tag
+956,Organizer,name
+957,Organizing,tag
+958,Orkut,name
+959,Osale,name
+960,Our Common Place,name
+961,OurGoods,name
+962,OurSay,name
+963,Outils pour animer des AG / Prendre des décisions,name
+964,OwnCloud,name
+965,Oxwall,name
+966,PDFCreator,name
+967,PETLab,name
+968,PFIF missing persons,name
+969,Panela de Pressao,name
+970,Para onde foi o meu dinheiro,name
+971,Parliament,tag
+972,Parliamentary monitoring,tag
+973,Parmenides,name
+974,Participa,name
+975,Participa en Andalucía,name
+976,Participa.br,name
+977,Participare.io,name
+978,Participation,tag
+979,Participatory budget,tag
+980,Participatory budgeti,tag
+981,Participatório,name
+982,PassLok,name
+983,PeaZip,name
+984,Pentaho,name
+985,PerlNomic,name
+986,Petition,tag
+987,Petitions,name
+988,Philanthropy News Digest,name
+989,Pidgin,name
+990,Pidgin Internet Messenger,name
+991,Pimp my Corroca,name
+992,Pinterest,name
+993,PlaceAVote,name
+994,PlaceSpeak,name
+995,Placemeter,name
+996,PlainSite,name
+997,Planning,tag
+998,PlanningPress,name
+999,Plateforme de participation Cap Collectif,name
+1000,Platform,tag
+1001,Plaxo,name
+1002,Player,tag
+1003,Plone,name
+1004,PlonePriori,name
+1005,Plug-in,tag
+1006,PlumeLabs,name
+1007,PlusPool,name
+1008,PmWiki,name
+1009,Poderopedia,name
+1010,Poderpedia,name
+1011,Poedit,name
+1012,Pol.is,name
+1013,Polemic tweet,name
+1014,Policy Pitch,name
+1015,PolicyMap,name
+1016,Polis,name
+1017,Political candidacy,tag
+1018,Politifact,name
+1019,Poll,tag
+1020,Poll Everywhere,name
+1021,Polling,tag
+1022,Pombola,name
+1023,Pop Vox,name
+1024,Pop-up Newsroom,name
+1025,PopIt,name
+1026,PopVox,name
+1027,Popit (2.0),name
+1028,Poplus Mapit,name
+1029,Poplus SayIt,name
+1030,Popolo,name
+1031,Por Mi Barrio,name
+1032,Portal,tag
+1033,Portal de Datos Abiertos de la Municipalidad de Miraflores,name
+1034,PortoAlegre.cc,name
+1035,Positive News Network,name
+1036,Post-it,tag
+1037,PostGIS,name
+1038,Postfix,name
+1039,PostgreSQL,name
+1040,PowerFoule,name
+1041,Presentation,tag
+1042,President's Challenge,name
+1043,Primary,tag
+1044,PrioritySpend,name
+1045,Privacy,tag
+1046,Private conversations,tag
+1047,Productivity,tag
+1048,Programming,tag
+1049,Progress tracking,tag
+1050,Project Management,tag
+1051,Project management,tag
+1052,ProjectLibre,name
+1053,ProjectVoteSmart,name
+1054,Promesometro,name
+1055,PromiseTracker,name
+1056,Proposal Making,tag
+1057,Proposition,tag
+1058,Propositions,tag
+1059,ProtonMail,name
+1060,PubliVate,name
+1061,Public,tag
+1062,Public Comment Analysis Toolkit (PCAT),name
+1063,Public Data Explorer,name
+1064,Public Stuff,name
+1065,Public finance,tag
+1066,Public ideas vibes,name
+1067,Public reporting,tag
+1068,Public services,tag
+1069,Public spending,tag
+1070,PublicLab,name
+1071,Publish What You Fund,name
+1072,Publishing,tag
+1073,Purple Binder,name
+1074,Puzzled by Policy,name
+1075,PyBossa,name
+1076,Q&A,tag
+1077,Q&A website,tag
+1078,QGIS,name
+1079,Qanda,name
+1080,QiqoChat,name
+1081,Qt,tag
+1082,Quake Quiz SF,name
+1083,Que Sabes,name
+1084,Que pasa riachuelo,name
+1085,Que se parla,name
+1086,QueProponen,name
+1087,Question,tag
+1088,Question and Answer Tool,name
+1089,Question2Answer,name
+1090,Quick Consult,name
+1091,Quien te financia,name
+1092,Quora,name
+1093,Quorum,tag
+1094,READ ME FIRST,name
+1095,RSS,tag
+1096,Race to the White House,name
+1097,Rally,name
+1098,Ramo 23,name
+1099,Rationale,name
+1100,Read,tag
+1101,Read+Comment,name
+1102,Reader,tag
+1103,Reading,tag
+1104,Ready Talk,name
+1105,Real-time,tag
+1106,RealtimeBoard,name
+1107,Reason!Able,name
+1108,Record Track,name
+1109,RecordTrac,name
+1110,Recorder,tag
+1111,Recording,tag
+1112,Recovers.org,name
+1113,Redbooth,name
+1114,Reddit Podemos,name
+1115,Redmine,name
+1116,Referendum,tag
+1117,Reflect,name
+1118,Refugees United,name
+1119,Registration,tag
+1120,Regulation Room,name
+1121,Relations,tag
+1122,Remesh,name
+1123,Repara Ciudad,name
+1124,Reporting,tag
+1125,Reports,tag
+1126,Repository,tag
+1127,Represent,name
+1128,Represent Boundaries,name
+1129,Representantes Patito,name
+1130,Research,tag
+1131,Researching,tag
+1132,Resource matching/sharing,tag
+1133,RetroShare,name
+1134,Rock the Vote registration widget,name
+1135,Rocket.chat,name
+1136,Romance anime and manga,tag
+1137,SALSA,name
+1138,SF72,name
+1139,SIGNAL,name
+1140,SMS Harvest,name
+1141,SMS Platform,name
+1142,SMS Secure,name
+1143,SMS Voting,tag
+1144,STET,name
+1145,SVG-edit,name
+1146,SWOT,tag
+1147,SafeCast,name
+1148,Sahana Eden check-in,name
+1149,SandDance,name
+1150,Sandy Coworking Map,name
+1151,Saving,tag
+1152,Say It,name
+1153,SayIt,name
+1154,Scheduling,tag
+1155,Scheduling & Calendar Sharing,tag
+1156,Schulze method,tag
+1157,Scrapers,name
+1158,Scraping,tag
+1159,Screen sharing,tag
+1160,ScreenIO,name
+1161,Scribus,name
+1162,Scrum,tag
+1163,Scrumblr,name
+1164,Search engine,tag
+1165,Searching,tag
+1166,Searx,name
+1167,Second Life,name
+1168,Security,tag
+1169,See Click Fix,name
+1170,SeeClickFix,name
+1171,SelectSurvey.NET,name
+1172,Selectricity,name
+1173,Selenium,name
+1174,Self-hosted,tag
+1175,Selfstarter,name
+1176,SendHub,name
+1177,SenseMaker™ Suite,name
+1178,SensorR Civico,name
+1179,Sensors,tag
+1180,Serval,name
+1181,Server,tag
+1182,Service Interface for Real Time Information (SIRI),name
+1183,Service alerts,tag
+1184,Shareabouts,name
+1185,SharedBook,name
+1186,Sharing,tag
+1187,ShineYourEye,name
+1188,Shinken,name
+1189,SigAint,name
+1190,SigaLei,name
+1191,Sigmah,name
+1192,Signal,name
+1193,Silicon Valley Talent Partnership,name
+1194,Simulation,tag
+1195,Singapore Memory Project,name
+1196,SingleStop,name
+1197,Sistema de Información Legislativa,name
+1198,SketchHatch,name
+1199,SketchTogether,name
+1200,Skype,name
+1201,Slate CRM,name
+1202,Sli.do,name
+1203,Slide sharing,tag
+1204,SlideShare,name
+1205,Social Coding 4 Good,name
+1206,Social Networking & Online Community,tag
+1207,Social Pinpoint,name
+1208,Social media,tag
+1209,Social network,tag
+1210,Social networking,tag
+1211,Socialholic Typewriter,name
+1212,Socialtext,name
+1213,Socrata,name
+1214,"Socrata data formats for Budget, Expenditures, and Service Connect",name
+1215,Software development,tag
+1216,Solutions Journalism Network,name
+1217,Solved!,name
+1218,Soofa,name
+1219,Sortition,name
+1220,SoundCloud,name
+1221,SpaceHive,name
+1222,Spending,tag
+1223,Spigit,name
+1224,Spotcrime Open Crime Data Standard (SOCS),name
+1225,Spreadsheet,tag
+1226,Stack Exchange,name
+1227,StackExchange,name
+1228,Stae,name
+1229,Standards.data.gov.uk,name
+1230,Standby Task Force,name
+1231,State Decoded,name
+1232,Stig (fr),name
+1233,Storage,tag
+1234,Stormboard,name
+1235,Storytelling,tag
+1236,StrawPoll,name
+1237,Street Bump,name
+1238,Street Life,name
+1239,Street Lives NYC,name
+1240,StreetBank,name
+1241,Streetmix,name
+1242,Substance,name
+1243,SumatraPDF,name
+1244,Survey,tag
+1245,Symfony,name
+1246,SynApp,name
+1247,Synchronization,tag
+1248,Syncthing,name
+1249,Synkron,name
+1250,TID+,name
+1251,TOCO,name
+1252,TWiki,name
+1253,TYPO3,name
+1254,Tableau,name
+1255,Tagging,tag
+1256,Takadu,name
+1257,Talk About Local,name
+1258,Taproot Foundation,name
+1259,Task,tag
+1260,Tasks,tag
+1261,Tax,tag
+1262,Team,tag
+1263,TeamRaiser,name
+1264,Technology Transformation Service citizen authentication,name
+1265,Tecmark 635,name
+1266,Tele-Town Hall,name
+1267,Telegram,name
+1268,Temporary,tag
+1269,Terra Incognita,name
+1270,Text,tag
+1271,TextSecure,name
+1272,Textbelt,name
+1273,Textizen,name
+1274,The California Report Card,name
+1275,The Civic Cloud Collaborative,name
+1276,The Groundwork,name
+1277,The Hive,name
+1278,The Madison Project,name
+1279,The People's Skype,name
+1280,The ReDistricting Game,name
+1281,The State Decoded,name
+1282,They Work For You,name
+1283,TheyWorkForYou,name
+1284,TheyWorkforYou,name
+1285,ThoughtFarmer,name
+1286,Thoughtexchange,name
+1287,Thumb,name
+1288,Thunderbird,name
+1289,TimeBridge,name
+1290,Timeline,tag
+1291,TimelineJS,name
+1292,Timepad,name
+1293,Tinder + Wedgie candidate matching,name
+1294,Tiny Tiny RSS,name
+1295,TitanPad,name
+1296,Tools and Resources for Assessing Social Impact,name
+1297,TownHall Social,name
+1298,Tracky,name
+1299,Training,tag
+1300,Transactional email,tag
+1301,Transcript,tag
+1302,Transfering,tag
+1303,Transit,tag
+1304,Transit Future,name
+1305,TransitScreen,name
+1306,Transports,tag
+1307,Tribe,name
+1308,Tricider,name
+1309,TrueCrypt,name
+1310,Trust System,tag
+1311,Trusted Sharing,name
+1312,Truth Scale,name
+1313,Tu Parlamento,name
+1314,TurboVote,name
+1315,Tus Diputados,name
+1316,Tutanota,name
+1317,Twilio,name
+1318,Twister,name
+1319,TypePad,name
+1320,Typo3,name
+1321,UNICEF-GIS,name
+1322,URL shortening,tag
+1323,UltraDefrag,name
+1324,Ultracopier,name
+1325,Unchat,name
+1326,Unhangouts,name
+1327,UniteUS,name
+1328,Unix-like,tag
+1329,Urban planning,tag
+1330,UserVoice,name
+1331,Ushahidi,name
+1332,Ustream.TV,name
+1333,Utopies Concrètes,name
+1334,VFemail,name
+1335,VLC media player,name
+1336,VYRE Unify,name
+1337,Vector,tag
+1338,Veniam,name
+1339,VeraCrypt,name
+1340,Verily,name
+1341,Versioning,tag
+1342,Verto,name
+1343,Vialogues,name
+1344,Vida.io,name
+1345,Video,tag
+1346,Video Games Without Borders,name
+1347,Viewfinder,name
+1348,Vilfredo goes to Athens,name
+1349,Virtru,name
+1350,Virtual Cities 2009,name
+1351,Virtual Singapore,name
+1352,Virtual townhall,tag
+1353,Virtual whiteboard,tag
+1354,Virtual world,tag
+1355,Visio,name
+1356,Visualization,tag
+1357,Vizalytics,name
+1358,VoIP,tag
+1359,VoIP software,tag
+1360,Voatz,name
+1361,VocalEyes,name
+1362,VoiceYourView,name
+1363,Voicethread,name
+1364,Volafile,name
+1365,Volunteering,tag
+1366,Vota Inteligente,name
+1367,Vote Compass,name
+1368,Vote It Up,name
+1369,Vote Match/On the Issues,name
+1370,Vote for Policies,name
+1371,Vote na web,name
+1372,Vote.ly.g0v.tw,name
+1373,Vote.org,name
+1374,VoteIQ,name
+1375,VoteIt,name
+1376,Voting,tag
+1377,Voting Information Project,name
+1378,Voting System,tag
+1379,"Voting, registration, and election information",tag
+1380,Votizen {Causes},name
+1381,Votorola,name
+1382,WASHFunders,name
+1383,WDW|Meinung,name
+1384,Waarp,name
+1385,Wallabag,name
+1386,Wasa2il,name
+1387,Washington D.C.'s FOIA portal (see also DC FOIA SERVO),name
+1388,Watchdogging and Transparency,tag
+1389,Watching,tag
+1390,WayCount,name
+1391,Waze Connected Citizens,name
+1392,We the people,name
+1393,WeDecide,name
+1394,WeJIT,name
+1395,WeThePeople,name
+1396,Web,tag
+1397,Web Dialogues,name
+1398,Web Lab,name
+1399,Web app,tag
+1400,Web browser,tag
+1401,Web conferencing,tag
+1402,Web development,tag
+1403,Web engineering,tag
+1404,WebBrowser,tag
+1405,WebEx,name
+1406,WebIDEApro,name
+1407,WebNabludatel,name
+1408,WebStorm,name
+1409,Weebly,name
+1410,Wetpaint,name
+1411,WhatDoTheyKnow,name
+1412,WhatsApp,name
+1413,Wheelie Map,name
+1414,Wheelmate,name
+1415,Where Does My Money Go?,name
+1416,Where's my bus?,name
+1417,Where's my school bus?,name
+1418,Wi-Fi,tag
+1419,Widescope,name
+1420,Wiggio,name
+1421,Wiki,tag
+1422,WikiAssetMap,name
+1423,Wikilegis,name
+1424,Wikiplanning,name
+1425,Wikispaces,name
+1426,Wilder Collaboration Factors Inventory,name
+1427,Windy City,name
+1428,Wisemapping,name
+1429,Wisembly,name
+1430,Wiser Earth,name
+1431,WordPress,name
+1432,Wordle,name
+1433,Workflowy,name
+1434,Workplace,tag
+1435,Wrangl,name
+1436,Write To Them,name
+1437,Write to Them,name
+1438,WriteIt,name
+1439,WriteToThem,name
+1440,Yahoo Groups,name
+1441,Yesandera,name
+1442,YetAnotherForum.NET,name
+1443,Yoosk,name
+1444,YouCanPlan,name
+1445,YouCaring,name
+1446,YouChoose,name
+1447,Youcut,name
+1448,Your Priorities,name
+1449,YourConsensus,name
+1450,Zapier,name
+1451,Zarca,name
+1452,Zerobin,name
+1453,Zilino,name
+1454,Ziteboard,name
+1455,Zoho CRM,name
+1456,Zoom,name
+1457,Zooniverse,name
+1458,acknowledge,name
+1459,action game,tag
+1460,activeCollab,name
+1461,agreeAdate,name
+1462,application,tag
+1463,bCisive,name
+1464,bCisive Online,name
+1465,brabbl,name
+1466,business enterprise,tag
+1467,certificate authority,tag
+1468,citizen science,tag
+1469,civic.json,name
+1470,co-ment,name
+1471,coUrbanize,name
+1472,command,tag
+1473,datea.pe,name
+1474,decisiontree,name
+1475,democracyLab,name
+1476,demosphere.eu,name
+1477,digress.it,name
+1478,direktzu,name
+1479,discourse-machine,name
+1480,dito,name
+1481,document-oriented database,tag
+1482,drama anime and manga,tag
+1483,e-Deliberation,name
+1484,e-Liberate,name
+1485,e-dialogos,name
+1486,e-petitions,name
+1487,eCitizens.org,name
+1488,eCommerce,tag
+1489,eConsult,name
+1490,eDecide,name
+1491,eLearning,tag
+1492,eNgageSpace,name
+1493,eRegulations,name
+1494,educational game,tag
+1495,email lists :p,name
+1496,eroge,tag
+1497,etouches,name
+1498,fantasy anime and manga,tag
+1499,ggouv,name
+1500,git,name
+1501,https://www.ballotready.org/,name
+1502,iCanMakeItBetter,name
+1503,iCarol,name
+1504,iCitizen,name
+1505,iCivics,name
+1506,iPetitions,name
+1507,iSeeChange,name
+1508,id kaart,name
+1509,image hosting service,tag
+1510,image viewer,tag
+1511,instant messaging client,tag
+1512,ioby,name
+1513,join.me,name
+1514,library,tag
+1515,mRelief,name
+1516,massively multiplayer online game,tag
+1517,mobile app,tag
+1518,nous rassemble,name
+1519,occupy.here,name
+1520,online service,tag
+1521,open world,tag
+1522,opendoors,name
+1523,operating system,tag
+1524,phpBB,name
+1525,platform game,tag
+1526,point and click,tag
+1527,pol.is,name
+1528,privately held company,tag
+1529,programming language,tag
+1530,proprietary software,tag
+1531,pubpub,name
+1532,puzzle video game,tag
+1533,see IFCNF,name
+1534,seinen manga,tag
+1535,server,tag
+1536,shoot 'em up,tag
+1537,social networking service,tag
+1538,softphone,tag
+1539,spatial analysis software,tag
+1540,standard UNIX utility,tag
+1541,strategy game,tag
+1542,survival game,tag
+1543,text editor,tag
+1544,uData,name
+1545,uEngage,name
+1546,uMap,name
+1547,vBulletin,name
+1548,video game,tag
+1549,video hosting service,tag
+1550,visual novel,tag
+1551,web application,tag
+1552,web framework,tag
+1553,web portal,tag
+1554,web service,tag
+1555,webmail,tag
+1556,website,tag
+1557,www.cityflag.co,name
+1558,¿Cuántas más?,name
+1559,¿Dónde Reciclo?,name
+1560,¿Hay Acuerdo?,name
